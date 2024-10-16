@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "titulo": "Torrada de Queijo e Presunto",
+        "descricao": "Torrada crocante com queijo derretido e presunto, ideal para um lanche rápido.",
+        "imagem_url": "images/lanche_madrugada/torrada-queijo-presunto.png",
+        "ingredientes": [
+            "2 fatias de pão de forma",
+            "2 fatias de queijo muçarela",
+            "2 fatias de presunto",
+            "1 colher de sopa de manteiga"
+        ],
+        "modo_preparo": [
+            "Passe manteiga nas fatias de pão.",
+            "Coloque o queijo e o presunto entre as fatias de pão.",
+            "Aqueça em uma sanduicheira ou frigideira até o pão dourar e o queijo derreter.",
+            "Sirva quente."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Wrap de Frango com Alface",
+        "descricao": "Wrap leve e rápido, recheado com frango desfiado e alface.",
+        "imagem_url": "images/lanche_madrugada/wrap-frango-alface.png",
+        "ingredientes": [
+            "1 tortilla de trigo",
+            "1/2 xícara de frango desfiado",
+            "Folhas de alface",
+            "2 colheres de sopa de maionese",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça a tortilla em uma frigideira.",
+            "Recheie com frango desfiado, alface e maionese.",
+            "Tempere com sal e pimenta, enrole o wrap e sirva."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Ovos Mexidos com Queijo",
+        "descricao": "Ovos mexidos cremosos com queijo derretido, rápidos de preparar.",
+        "imagem_url": "images/lanche_madrugada/ovos-mexidos-queijo.png",
+        "ingredientes": [
+            "2 ovos",
+            "2 colheres de sopa de queijo muçarela ralado",
+            "1 colher de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata os ovos com sal e pimenta.",
+            "Aqueça a manteiga em uma frigideira e despeje os ovos batidos.",
+            "Mexa até que os ovos fiquem cremosos e, no final, adicione o queijo para derreter.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Sanduíche de Atum com Maionese",
+        "descricao": "Sanduíche rápido de atum com maionese, perfeito para um jantar leve.",
+        "imagem_url": "images/jantar/sanduiche-atum-maionese.webp",
+        "ingredientes": [
+            "1 lata de atum em conserva",
+            "2 colheres de sopa de maionese",
+            "2 fatias de pão integral",
+            "Folhas de alface",
+            "1 tomate fatiado",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Misture o atum com a maionese e tempere com sal e pimenta.",
+            "Recheie as fatias de pão com a mistura de atum, alface e tomate.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Sanduíche de Atum Simples",
+        "descricao": "Sanduíche de atum com maionese, simples e rápido para a madrugada.",
+        "imagem_url": "images/lanche_madrugada/sanduiche-atum-simples.png",
+        "ingredientes": [
+            "1 lata de atum em conserva",
+            "2 colheres de sopa de maionese",
+            "2 fatias de pão de forma",
+            "Folhas de alface",
+            "1 tomate fatiado",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Misture o atum com a maionese e tempere com sal e pimenta.",
+            "Recheie as fatias de pão com a mistura de atum, alface e tomate.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Pizza de Pão Francês",
+        "descricao": "Pizza rápida feita com pão francês, molho de tomate, queijo e orégano.",
+        "imagem_url": "images/lanche_madrugada/pizza-pao-frances.png",
+        "ingredientes": [
+            "2 pães franceses cortados ao meio",
+            "1/2 xícara de molho de tomate",
+            "1/2 xícara de queijo muçarela ralado",
+            "Orégano a gosto"
+        ],
+        "modo_preparo": [
+            "Espalhe o molho de tomate sobre as metades do pão.",
+            "Adicione o queijo muçarela e o orégano por cima.",
+            "Leve ao forno pré-aquecido a 180°C por 10 minutos ou até o queijo derreter.",
+            "Sirva quente."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Misto Quente",
+        "descricao": "Clássico misto quente com presunto e queijo derretidos, pronto em minutos.",
+        "imagem_url": "images/lanche_madrugada/misto-quente.png",
+        "ingredientes": [
+            "2 fatias de pão de forma",
+            "2 fatias de presunto",
+            "2 fatias de queijo muçarela",
+            "1 colher de sopa de manteiga"
+        ],
+        "modo_preparo": [
+            "Passe manteiga nas fatias de pão.",
+            "Recheie com o presunto e o queijo.",
+            "Aqueça em uma sanduicheira ou frigideira até dourar e o queijo derreter.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Quesadilla de Queijo",
+        "descricao": "Quesadilla simples e rápida, recheada com queijo derretido.",
+        "imagem_url": "images/lanche_madrugada/quesadilla-queijo.png",
+        "ingredientes": [
+            "2 tortillas de trigo",
+            "1 xícara de queijo muçarela ralado",
+            "Orégano a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça uma tortilla em uma frigideira, adicione o queijo e polvilhe orégano.",
+            "Coloque a outra tortilla por cima e cozinhe até o queijo derreter.",
+            "Corte em pedaços e sirva."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Bolo de Caneca de Chocolate",
+        "descricao": "Bolo de caneca de chocolate rápido e fácil, preparado no micro-ondas.",
+        "imagem_url": "images/lanche_da_tarde/bolo-caneca-chocolate.png",
+        "ingredientes": [
+            "4 colheres de sopa de farinha de trigo",
+            "4 colheres de sopa de açúcar",
+            "2 colheres de sopa de achocolatado",
+            "1 ovo",
+            "3 colheres de sopa de leite",
+            "3 colheres de sopa de óleo",
+            "1 colher de chá de fermento em pó"
+        ],
+        "modo_preparo": [
+            "Em uma caneca, misture a farinha, açúcar, achocolatado, ovo, leite e óleo.",
+            "Adicione o fermento e misture bem.",
+            "Leve ao micro-ondas por 3 minutos em potência alta.",
+            "Sirva quente, se desejar, com uma bola de sorvete."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Sanduíche Natural de Frango",
+        "descricao": "Sanduíche leve de frango desfiado com maionese e vegetais.",
+        "imagem_url": "images/lanche_da_tarde/sanduiche-natural-frango.png",
+        "ingredientes": [
+            "2 fatias de pão integral",
+            "1/2 xícara de frango desfiado",
+            "2 colheres de sopa de maionese",
+            "Folhas de alface",
+            "1 tomate fatiado",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Misture o frango desfiado com a maionese e tempere com sal e pimenta.",
+            "Recheie o pão com o frango, alface e tomate.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Panqueca Doce com Banana e Mel",
+        "descricao": "Panqueca doce recheada com banana e mel, simples e deliciosa.",
+        "imagem_url": "images/lanche_da_tarde/panqueca-banana-mel.png",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1 xícara de leite",
+            "1 ovo",
+            "2 bananas fatiadas",
+            "Mel a gosto",
+            "1 colher de sopa de manteiga"
+        ],
+        "modo_preparo": [
+            "Bata a farinha, leite e ovo até formar uma massa homogênea.",
+            "Aqueça a manteiga em uma frigideira e despeje pequenas porções da massa.",
+            "Quando a massa firmar, adicione as fatias de banana e dobre a panqueca.",
+            "Sirva com mel por cima."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Tapioca com Coco e Leite Condensado",
+        "descricao": "Tapioca doce com coco ralado e leite condensado, perfeita para o lanche da tarde.",
+        "imagem_url": "images/lanche_da_tarde/tapioca-coco-leite-condensado.png",
+        "ingredientes": [
+            "1/2 xícara de goma de tapioca",
+            "2 colheres de sopa de coco ralado",
+            "2 colheres de sopa de leite condensado"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira e espalhe a goma de tapioca até cobrir o fundo.",
+            "Quando a tapioca começar a soltar das bordas, adicione o coco ralado e dobre ao meio.",
+            "Despeje o leite condensado por cima e sirva."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Crepioca Simples",
+        "descricao": "Crepioca rápida e leve, feita com ovo e goma de tapioca.",
+        "imagem_url": "images/lanche_da_tarde/crepioca-simples.png",
+        "ingredientes": [
+            "2 colheres de sopa de goma de tapioca",
+            "1 ovo",
+            "1 colher de sopa de queijo ralado (opcional)",
+            "Sal a gosto"
+        ],
+        "modo_preparo": [
+            "Bata o ovo com a goma de tapioca e adicione o sal e o queijo, se desejar.",
+            "Aqueça uma frigideira e despeje a mistura.",
+            "Cozinhe até a crepioca firmar, vire e doure do outro lado.",
+            "Sirva quente."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Salada de Frutas com Iogurte e Mel",
+        "descricao": "Salada de frutas frescas servida com iogurte natural e mel.",
+        "imagem_url": "images/lanche_da_tarde/salada-frutas-iogurte-mel.png",
+        "ingredientes": [
+            "1 banana picada",
+            "1 maçã picada",
+            "1/2 xícara de morangos fatiados",
+            "1 pote de iogurte natural",
+            "1 colher de sopa de mel"
+        ],
+        "modo_preparo": [
+            "Misture todas as frutas em uma tigela.",
+            "Despeje o iogurte por cima e regue com mel.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Biscoito de Polvilho Caseiro",
+        "descricao": "Biscoito de polvilho assado, leve e crocante, perfeito para um lanche da tarde.",
+        "imagem_url": "images/lanche_da_tarde/biscoito-polvilho.png",
+        "ingredientes": [
+            "2 xícaras de polvilho azedo",
+            "1/2 xícara de água",
+            "1/4 xícara de óleo",
+            "1/2 colher de chá de sal",
+            "1 ovo"
+        ],
+        "modo_preparo": [
+            "Misture o polvilho, água, óleo e sal em uma tigela.",
+            "Adicione o ovo e misture bem até obter uma massa homogênea.",
+            "Modele os biscoitos e asse em forno pré-aquecido a 180°C por 20 minutos ou até dourarem.",
+            "Sirva após esfriar."
+        ]
+    }
+]

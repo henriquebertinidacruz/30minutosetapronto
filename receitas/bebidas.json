@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "titulo": "Suco de Laranja Natural",
+        "descricao": "Suco de laranja fresco e natural, rico em vitamina C.",
+        "imagem_url": "images/bebidas/suco_laranja.webp",
+        "ingredientes": [
+            "4 laranjas",
+            "Gelo a gosto",
+            "Açúcar ou adoçante a gosto"
+        ],
+        "modo_preparo": [
+            "Esprema as laranjas para extrair o suco.",
+            "Adicione gelo e açúcar ou adoçante a gosto.",
+            "Misture bem e sirva imediatamente."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Limonada com Hortelã",
+        "descricao": "Refrescante limonada com folhas de hortelã.",
+        "imagem_url": "images/bebidas/limonada_hortela.webp",
+        "ingredientes": [
+            "3 limões",
+            "500 ml de água gelada",
+            "Folhas de hortelã a gosto",
+            "Açúcar ou adoçante a gosto"
+        ],
+        "modo_preparo": [
+            "Esprema os limões e misture o suco com a água gelada.",
+            "Adicione folhas de hortelã e açúcar ou adoçante a gosto.",
+            "Misture bem e sirva com gelo."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Smoothie de Morango e Banana",
+        "descricao": "Bebida cremosa de morango e banana, ideal para um lanche saudável.",
+        "imagem_url": "images/bebidas/smoothie_morango_banana.webp",
+        "ingredientes": [
+            "1 banana",
+            "1 xícara de morangos",
+            "1/2 xícara de iogurte natural",
+            "Mel a gosto"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até ficar cremoso.",
+            "Adicione mel a gosto e sirva imediatamente."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Chá Gelado de Limão",
+        "descricao": "Chá preto gelado com um toque de limão, refrescante para dias quentes.",
+        "imagem_url": "images/bebidas/cha_gelado_limao.webp",
+        "ingredientes": [
+            "1 saquinho de chá preto",
+            "1 xícara de água",
+            "Suco de 1 limão",
+            "Gelo e açúcar a gosto"
+        ],
+        "modo_preparo": [
+            "Prepare o chá preto e deixe esfriar.",
+            "Adicione o suco de limão, gelo e açúcar a gosto.",
+            "Misture bem e sirva gelado."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Milkshake de Chocolate",
+        "descricao": "Milkshake cremoso de chocolate, perfeito para um doce refrescante.",
+        "imagem_url": "images/bebidas/milkshake_chocolate.webp",
+        "ingredientes": [
+            "2 bolas de sorvete de chocolate",
+            "1 xícara de leite",
+            "Calda de chocolate para decorar"
+        ],
+        "modo_preparo": [
+            "Bata o sorvete e o leite no liquidificador até ficar cremoso.",
+            "Despeje no copo e decore com calda de chocolate.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Água Saborizada com Frutas",
+        "descricao": "Água refrescante com pedaços de frutas para hidratação com sabor.",
+        "imagem_url": "images/bebidas/agua_saborizada.webp",
+        "ingredientes": [
+            "1 litro de água",
+            "Fatias de limão",
+            "Morangos fatiados",
+            "Folhas de hortelã"
+        ],
+        "modo_preparo": [
+            "Em uma jarra, adicione a água e as frutas fatiadas.",
+            "Deixe descansar na geladeira por pelo menos 30 minutos.",
+            "Sirva com gelo."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Suco Detox de Couve e Abacaxi",
+        "descricao": "Bebida desintoxicante com couve, abacaxi e gengibre.",
+        "imagem_url": "images/bebidas/suco_detox.webp",
+        "ingredientes": [
+            "1 folha de couve",
+            "1 fatia de abacaxi",
+            "1 pedaço pequeno de gengibre",
+            "200 ml de água"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até ficar homogêneo.",
+            "Coe, se preferir, e sirva gelado."
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Chocolate Quente Cremoso",
+        "descricao": "Bebida quente e cremosa de chocolate, ideal para dias frios.",
+        "imagem_url": "images/bebidas/chocolate_quente.webp",
+        "ingredientes": [
+            "200 ml de leite",
+            "2 colheres de sopa de chocolate em pó",
+            "1 colher de sopa de açúcar",
+            "1 colher de chá de amido de milho"
+        ],
+        "modo_preparo": [
+            "Misture todos os ingredientes em uma panela e leve ao fogo médio.",
+            "Mexa até engrossar e sirva quente."
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Frappuccino de Baunilha",
+        "descricao": "Versão caseira do frappuccino de baunilha, refrescante e saboroso.",
+        "imagem_url": "images/bebidas/frappuccino_baunilha.webp",
+        "ingredientes": [
+            "1 xícara de leite",
+            "1 xícara de café gelado",
+            "2 colheres de sopa de xarope de baunilha",
+            "Gelo a gosto"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até ficar cremoso.",
+            "Sirva com chantilly, se desejar."
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Suco de Melancia com Hortelã",
+        "descricao": "Suco refrescante de melancia com folhas de hortelã, ideal para o verão.",
+        "imagem_url": "images/bebidas/suco_melancia.webp",
+        "ingredientes": [
+            "2 xícaras de melancia picada",
+            "Folhas de hortelã a gosto",
+            "Gelo a gosto"
+        ],
+        "modo_preparo": [
+            "Bata a melancia e as folhas de hortelã no liquidificador.",
+            "Adicione gelo e sirva imediatamente."
+        ]
+    }
+]

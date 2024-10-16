@@ -1,0 +1,130 @@
+body{
+    background-color: #F5E9DA;
+    color: #5C4033;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #A8D5BA;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.categoria-nome {
+    font-size: 2em;
+    font-weight: bold;
+    color: #5C4033;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.receitas-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 150px auto 0;
+}
+
+.receita-item {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    position: relative;
+}
+
+.receita-item img {
+    width: 100%;
+    border-radius: 10px;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.receita-item h2 {
+    font-size: 1.8em;
+    color: #5C4033;
+    margin: 15px 0 10px;
+}
+
+.receita-item p {
+    font-size: 1em;
+    color: #333;
+}
+
+.btn-visualizar {
+    background-color: #F28C28;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-visualizar:hover {
+    background-color: #d2691e;
+}
+
+.detalhes-receita {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: none;
+    text-align: left;
+}
+
+.detalhes-receita h3 {
+    margin-top: 15px;
+    font-size: 1.4em;
+    color: #5C4033;
+}
+
+.detalhes-receita ul, .detalhes-receita ol {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.pagination {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.pagination a {
+    margin: 0 5px;
+    padding: 10px 15px;
+    background-color: #F28C28;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.pagination a:hover {
+    background-color: #d2691e;
+}
+
+.autor-receita {
+
+    font-size: 1em;
+    color: #000000;
+    margin-top: 10px;
+}

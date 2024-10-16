@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lasanha de Legumes",
+        "descricao": "Uma deliciosa lasanha de legumes, ideal para um almoço saboroso e saudável.",
+        "imagem_url": "images/do_dia/lasanha.png",
+        "ingredientes": [
+            "1 abobrinha média, fatiada",
+            "1 berinjela média, fatiada",
+            "1 cenoura ralada",
+            "2 molho de tomate",
+            "200g de queijo mussarela fatiado",
+            "100g de ricota esfarelada",
+            "Folhas de manjericão fresco",
+            "Azeite de oliva a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Pré-aqueça o forno a 180°C.",
+            "Em uma frigideira, aqueça o azeite e refogue a abobrinha, a berinjela e a cenoura até ficarem macias. Tempere com sal e pimenta.",
+            "Em um refratário, comece a montar a lasanha: uma camada de molho de tomate, uma camada de legumes refogados, uma camada de ricota e uma camada de queijo mussarela.",
+            "Repita as camadas até os ingredientes acabarem, finalizando com o queijo mussarela.",
+            "Leve ao forno por cerca de 25 minutos ou até que o queijo esteja derretido e levemente dourado.",
+            "Retire do forno, decore com folhas de manjericão fresco e sirva quente."
+        ]
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "id": 1,
+        "titulo": "Shake de Proteína com Banana e Aveia",
+        "descricao": "Shake nutritivo de proteína com banana, aveia e leite, ideal para recuperação muscular.",
+        "imagem_url": "images/refeicao_pos_treino/shake-banana-aveia.png",
+        "ingredientes": [
+            "1 banana madura",
+            "1 colher de sopa de aveia",
+            "1 dose de whey protein sabor baunilha",
+            "1 xícara de leite (ou leite vegetal)",
+            "1 colher de sopa de pasta de amendoim"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até obter uma mistura cremosa.",
+            "Sirva imediatamente, preferencialmente gelado."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Omelete de Claras com Espinafre",
+        "descricao": "Omelete leve de claras com espinafre, rica em proteínas e nutrientes.",
+        "imagem_url": "images/refeicao_pos_treino/omelete-claras-espinafre.png",
+        "ingredientes": [
+            "4 claras de ovo",
+            "1/2 xícara de espinafre picado",
+            "1 colher de chá de azeite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça o azeite em uma frigideira e refogue o espinafre.",
+            "Bata as claras com sal e pimenta e despeje sobre o espinafre.",
+            "Cozinhe até que as claras fiquem firmes, vire e cozinhe do outro lado.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Frango Grelhado com Batata Doce",
+        "descricao": "Frango grelhado com batata doce cozida, uma refeição pós-treino completa e nutritiva.",
+        "imagem_url": "images/refeicao_pos_treino/frango-batata-doce.png",
+        "ingredientes": [
+            "1 peito de frango grelhado",
+            "1 batata doce média cozida",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere o peito de frango com sal e pimenta.",
+            "Grelhe o frango em uma frigideira com azeite até dourar dos dois lados.",
+            "Cozinhe a batata doce até ficar macia e sirva com o frango grelhado."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Panqueca de Aveia e Banana",
+        "descricao": "Panqueca leve de aveia e banana, rica em fibras e proteínas.",
+        "imagem_url": "images/refeicao_pos_treino/panqueca-aveia-banana.png",
+        "ingredientes": [
+            "1 banana amassada",
+            "1 ovo",
+            "2 colheres de sopa de aveia em flocos",
+            "1 colher de chá de canela (opcional)"
+        ],
+        "modo_preparo": [
+            "Misture a banana amassada, o ovo e a aveia até formar uma massa.",
+            "Aqueça uma frigideira antiaderente e despeje pequenas porções da massa.",
+            "Cozinhe até dourar dos dois lados e sirva com mel ou frutas, se desejar."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Wrap de Frango com Abacate",
+        "descricao": "Wrap leve e nutritivo de frango desfiado com abacate e alface.",
+        "imagem_url": "images/refeicao_pos_treino/wrap-frango-abacate.png",
+        "ingredientes": [
+            "1 tortilla de trigo",
+            "1 peito de frango cozido e desfiado",
+            "1/2 abacate fatiado",
+            "Folhas de alface",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça a tortilla em uma frigideira.",
+            "Recheie com o frango desfiado, abacate e alface.",
+            "Tempere com sal e pimenta, enrole o wrap e sirva."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Iogurte com Frutas e Granola",
+        "descricao": "Iogurte natural com frutas frescas e granola, rico em proteínas e fibras.",
+        "imagem_url": "images/refeicao_pos_treino/iogurte-frutas-granola.png",
+        "ingredientes": [
+            "1 pote de iogurte natural",
+            "1/2 xícara de morangos fatiados",
+            "1/2 banana fatiada",
+            "2 colheres de sopa de granola"
+        ],
+        "modo_preparo": [
+            "Em uma tigela, coloque o iogurte e adicione as frutas por cima.",
+            "Finalize com granola e sirva imediatamente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Salada de Atum com Quinoa",
+        "descricao": "Salada leve de atum com quinoa, ideal para uma refeição pós-treino equilibrada.",
+        "imagem_url": "images/refeicao_pos_treino/salada-atum-quinoa.png",
+        "ingredientes": [
+            "1 lata de atum em água",
+            "1 xícara de quinoa cozida",
+            "1/2 pepino picado",
+            "1 tomate picado",
+            "2 colheres de sopa de azeite",
+            "Suco de 1 limão",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Misture o atum com a quinoa e os vegetais.",
+            "Tempere com azeite, suco de limão, sal e pimenta.",
+            "Sirva imediatamente ou leve à geladeira."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Smoothie de Banana com Aveia",
+        "descricao": "Smoothie nutritivo de banana, aveia e mel, perfeito para fornecer energia antes do treino.",
+        "imagem_url": "images/refeicao_pre_treino/smoothie-banana-aveia.png",
+        "ingredientes": [
+            "1 banana",
+            "2 colheres de sopa de aveia",
+            "1 colher de sopa de mel",
+            "1 xícara de leite (ou leite vegetal)",
+            "1 colher de sopa de pasta de amendoim"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea.",
+            "Sirva imediatamente, de preferência gelado."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Pão Integral com Pasta de Amendoim e Banana",
+        "descricao": "Pão integral com pasta de amendoim e fatias de banana, um lanche rápido e energético.",
+        "imagem_url": "images/refeicao_pre_treino/pao-integral-pasta-amendoim-banana.png",
+        "ingredientes": [
+            "2 fatias de pão integral",
+            "2 colheres de sopa de pasta de amendoim",
+            "1 banana fatiada"
+        ],
+        "modo_preparo": [
+            "Espalhe a pasta de amendoim sobre as fatias de pão integral.",
+            "Distribua as fatias de banana por cima e sirva."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Tapioca com Queijo Cottage",
+        "descricao": "Tapioca leve e rica em proteínas, recheada com queijo cottage.",
+        "imagem_url": "images/refeicao_pre_treino/tapioca-queijo-cottage.png",
+        "ingredientes": [
+            "1/2 xícara de goma de tapioca",
+            "2 colheres de sopa de queijo cottage",
+            "1 pitada de sal"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira e espalhe a goma de tapioca até formar um disco.",
+            "Quando a tapioca começar a soltar das bordas, adicione o queijo cottage no centro.",
+            "Dobre a tapioca ao meio e sirva imediatamente."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Panqueca de Banana e Aveia",
+        "descricao": "Panqueca rápida e saudável de banana e aveia, ideal para um pré-treino.",
+        "imagem_url": "images/refeicao_pre_treino/panqueca-banana-aveia.png",
+        "ingredientes": [
+            "1 banana amassada",
+            "1 ovo",
+            "2 colheres de sopa de aveia em flocos",
+            "1 colher de chá de canela (opcional)"
+        ],
+        "modo_preparo": [
+            "Misture a banana amassada, o ovo e a aveia até formar uma massa.",
+            "Aqueça uma frigideira antiaderente e despeje pequenas porções da massa.",
+            "Cozinhe até dourar dos dois lados e sirva."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Iogurte Grego com Granola e Mel",
+        "descricao": "Iogurte grego com granola crocante e mel, fornecendo energia e proteínas.",
+        "imagem_url": "images/refeicao_pre_treino/iogurte-grego-granola-mel.png",
+        "ingredientes": [
+            "1 pote de iogurte grego",
+            "2 colheres de sopa de granola",
+            "1 colher de chá de mel"
+        ],
+        "modo_preparo": [
+            "Coloque o iogurte em uma tigela.",
+            "Adicione a granola por cima e regue com mel.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Batata Doce Assada com Azeite",
+        "descricao": "Batata doce assada com azeite, uma excelente fonte de carboidratos para o pré-treino.",
+        "imagem_url": "images/refeicao_pre_treino/batata-doce-assada.png",
+        "ingredientes": [
+            "1 batata doce média",
+            "1 colher de sopa de azeite",
+            "Sal a gosto"
+        ],
+        "modo_preparo": [
+            "Corte a batata doce em rodelas finas.",
+            "Tempere com azeite e sal, e asse em forno pré-aquecido a 180°C por 20 minutos ou até dourar.",
+            "Sirva quente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Omelete de Espinafre com Queijo",
+        "descricao": "Omelete leve e proteica de espinafre com queijo, rápida e fácil de fazer.",
+        "imagem_url": "images/refeicao_pre_treino/omelete-espinafre-queijo.png",
+        "ingredientes": [
+            "2 ovos",
+            "1/2 xícara de espinafre picado",
+            "2 colheres de sopa de queijo muçarela ralado",
+            "1 colher de chá de azeite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata os ovos com sal e pimenta.",
+            "Aqueça o azeite em uma frigideira e refogue o espinafre por 1-2 minutos.",
+            "Despeje os ovos batidos e adicione o queijo por cima.",
+            "Cozinhe até o omelete ficar firme, dobre ao meio e sirva."
+        ]
+    }
+]

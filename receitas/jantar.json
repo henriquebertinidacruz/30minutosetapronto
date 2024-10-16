@@ -1,0 +1,664 @@
+[
+    {
+        "id": 1,
+        "titulo": "Macarrão com Molho de Tomate e Manjericão",
+        "descricao": "Macarrão espaguete com molho de tomate caseiro e folhas frescas de manjericão.",
+        "imagem_url": "images/jantar/macarrao-molho-tomate-manjericao.webp",
+        "ingredientes": [
+            "200g de espaguete",
+            "4 tomates maduros picados",
+            "2 dentes de alho picados",
+            "2 colheres de sopa de azeite",
+            "Folhas de manjericão fresco",
+            "Sal e pimenta a gosto",
+            "Queijo parmesão ralado (opcional)"
+        ],
+        "modo_preparo": [
+            "Cozinhe o espaguete em água com sal até ficar al dente.",
+            "Enquanto isso, aqueça o azeite em uma panela e refogue o alho até dourar.",
+            "Adicione os tomates picados, tempere com sal e pimenta e deixe cozinhar até o molho engrossar.",
+            "Misture o espaguete ao molho e finalize com folhas de manjericão e queijo parmesão, se desejar."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Frango Grelhado com Salada Verde",
+        "descricao": "Peito de frango grelhado acompanhado de uma salada verde simples.",
+        "imagem_url": "images/jantar/frango-grelhado-salada-verde.webp",
+        "ingredientes": [
+            "2 peitos de frango",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta a gosto",
+            "Folhas de alface",
+            "1 tomate fatiado",
+            "1/2 cebola roxa fatiada",
+            "Azeite e suco de limão para temperar"
+        ],
+        "modo_preparo": [
+            "Tempere os peitos de frango com sal e pimenta.",
+            "Aqueça o azeite em uma frigideira e grelhe os peitos de frango por 6-7 minutos de cada lado até dourar.",
+            "Em uma tigela, misture a alface, tomate e cebola, e tempere com azeite e suco de limão.",
+            "Sirva o frango com a salada ao lado."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Omelete de Queijo e Presunto",
+        "descricao": "Omelete simples com recheio de queijo muçarela e presunto.",
+        "imagem_url": "images/jantar/omelete-queijo-presunto.webp",
+        "ingredientes": [
+            "3 ovos",
+            "2 fatias de presunto picado",
+            "2 fatias de queijo muçarela",
+            "1 colher de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata os ovos com sal e pimenta.",
+            "Aqueça a manteiga em uma frigideira e despeje os ovos batidos.",
+            "Quando a omelete começar a firmar, adicione o queijo e o presunto no centro.",
+            "Dobre a omelete ao meio e cozinhe até o queijo derreter."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Tacos Rápidos de Carne Moída",
+        "descricao": "Tacos recheados com carne moída, alface e queijo, perfeitos para um jantar rápido.",
+        "imagem_url": "images/jantar/tacos-carne-moida.webp",
+        "ingredientes": [
+            "200g de carne moída",
+            "1/2 cebola picada",
+            "1 dente de alho picado",
+            "2 colheres de sopa de molho de tomate",
+            "4 tortillas de trigo",
+            "Folhas de alface picadas",
+            "Queijo ralado a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Refogue a cebola e o alho em uma frigideira, depois adicione a carne moída e cozinhe até dourar.",
+            "Adicione o molho de tomate, sal e pimenta, e cozinhe por mais 5 minutos.",
+            "Recheie as tortillas com a carne, alface e queijo ralado, e sirva."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Panqueca de Espinafre e Ricota",
+        "descricao": "Panquecas recheadas com espinafre e ricota, rápidas e deliciosas.",
+        "imagem_url": "images/jantar/panqueca-espinafre-ricota.webp",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1 xícara de leite",
+            "1 ovo",
+            "1 xícara de espinafre cozido e picado",
+            "1/2 xícara de ricota",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata a farinha, o leite e o ovo no liquidificador até obter uma massa lisa.",
+            "Aqueça uma frigideira antiaderente e faça discos de massa para as panquecas.",
+            "Recheie as panquecas com o espinafre e a ricota, tempere com sal e pimenta, e sirva."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Arroz de Forno com Queijo e Presunto",
+        "descricao": "Arroz de forno gratinado com queijo e presunto, fácil de fazer.",
+        "imagem_url": "images/jantar/arroz-forno-queijo-presunto.webp",
+        "ingredientes": [
+            "2 xícaras de arroz cozido",
+            "1/2 xícara de presunto picado",
+            "1/2 xícara de queijo muçarela ralado",
+            "2 colheres de sopa de creme de leite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Misture o arroz cozido com o presunto, o queijo e o creme de leite.",
+            "Tempere com sal e pimenta, coloque em uma travessa e leve ao forno pré-aquecido a 180°C por 10-15 minutos até gratinar."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Medalhão de Filé Mignon com Molho Madeira",
+        "descricao": "Medalhões de filé mignon grelhados com um delicioso molho madeira.",
+        "imagem_url": "images/jantar_de_festas/medalhao-file-mignon-molho-madeira.png",
+        "ingredientes": [
+            "4 medalhões de filé mignon",
+            "2 colheres de sopa de manteiga",
+            "1 xícara de vinho tinto",
+            "1 colher de chá de amido de milho",
+            "1/2 xícara de caldo de carne",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os medalhões com sal e pimenta.",
+            "Aqueça a manteiga em uma frigideira e grelhe os medalhões por 3-4 minutos de cada lado.",
+            "Retire a carne e, na mesma frigideira, adicione o vinho tinto e o caldo de carne.",
+            "Dissolva o amido de milho em um pouco de água e adicione ao molho, mexendo até engrossar.",
+            "Sirva os medalhões com o molho madeira por cima."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Salmão Grelhado com Ervas",
+        "descricao": "Filé de salmão grelhado com ervas frescas e um toque de limão.",
+        "imagem_url": "images/jantar_de_festas/salmao-grelhado-ervas.png",
+        "ingredientes": [
+            "2 filés de salmão",
+            "2 colheres de sopa de azeite",
+            "Suco de 1 limão",
+            "1 colher de chá de tomilho fresco",
+            "1 colher de chá de alecrim fresco",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere o salmão com suco de limão, tomilho, alecrim, sal e pimenta.",
+            "Aqueça o azeite em uma frigideira e grelhe o salmão por 4-5 minutos de cada lado.",
+            "Sirva com uma salada leve ou arroz."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Risoto de Champignon com Parmesão",
+        "descricao": "Risoto cremoso com champignons frescos e parmesão, perfeito para uma ocasião especial.",
+        "imagem_url": "images/jantar_de_festas/risoto-champignon-parmesao.png",
+        "ingredientes": [
+            "1 xícara de arroz para risoto (arbóreo)",
+            "1/2 cebola picada",
+            "1/2 xícara de vinho branco",
+            "2 colheres de sopa de azeite",
+            "1 xícara de champignons fatiados",
+            "1 litro de caldo de legumes",
+            "1/2 xícara de queijo parmesão ralado",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Refogue a cebola no azeite e adicione o arroz.",
+            "Adicione o vinho branco e mexa até evaporar.",
+            "Adicione os champignons e vá acrescentando o caldo de legumes aos poucos, mexendo sempre.",
+            "Quando o arroz estiver al dente, adicione o parmesão e misture.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Camarão ao Alho e Óleo",
+        "descricao": "Camarões grelhados ao alho e óleo, perfeitos para um jantar especial.",
+        "imagem_url": "images/jantar_de_festas/camarao-alho-oleo.png",
+        "ingredientes": [
+            "400g de camarões grandes limpos",
+            "4 dentes de alho picados",
+            "3 colheres de sopa de azeite",
+            "Suco de 1 limão",
+            "Salsinha picada a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os camarões com sal, pimenta e suco de limão.",
+            "Aqueça o azeite em uma frigideira e doure o alho.",
+            "Adicione os camarões e cozinhe por 3-4 minutos até ficarem rosados.",
+            "Finalize com salsinha picada e sirva."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Massa ao Pesto com Tomates Cereja",
+        "descricao": "Massa leve e deliciosa com molho pesto caseiro e tomates cereja.",
+        "imagem_url": "images/jantar_de_festas/massa-pesto-tomates-cereja.png",
+        "ingredientes": [
+            "200g de massa (espaguete ou penne)",
+            "1 xícara de folhas de manjericão fresco",
+            "2 colheres de sopa de azeite",
+            "2 colheres de sopa de queijo parmesão ralado",
+            "1 dente de alho",
+            "1/2 xícara de tomates cereja cortados ao meio",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Cozinhe a massa em água com sal até ficar al dente.",
+            "No liquidificador, bata o manjericão, azeite, parmesão e alho até formar um molho homogêneo.",
+            "Misture o molho pesto à massa e adicione os tomates cereja.",
+            "Sirva com mais parmesão por cima, se desejar."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Polenta Cremosa com Ragu de Carne",
+        "descricao": "Polenta cremosa servida com ragu de carne desfiada, ideal para um jantar festivo.",
+        "imagem_url": "images/jantar_de_festas/polenta-cremosa-ragu-carne.png",
+        "ingredientes": [
+            "1 xícara de fubá",
+            "4 xícaras de água",
+            "2 colheres de sopa de manteiga",
+            "1/2 xícara de queijo parmesão ralado",
+            "1 xícara de carne desfiada (já cozida)",
+            "1/2 xícara de molho de tomate",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Em uma panela, misture o fubá com a água e cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+            "Adicione a manteiga e o parmesão e misture bem.",
+            "Aqueça a carne desfiada com o molho de tomate e sirva sobre a polenta."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Bruschetta de Tomate e Manjericão",
+        "descricao": "Bruschettas crocantes com tomate fresco e manjericão, perfeitas como entrada.",
+        "imagem_url": "images/jantar_de_festas/bruschetta-tomate-manjericao.png",
+        "ingredientes": [
+            "4 fatias de pão italiano",
+            "2 tomates maduros picados",
+            "1 dente de alho",
+            "2 colheres de sopa de azeite",
+            "Folhas de manjericão fresco",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Toste as fatias de pão italiano até ficarem crocantes.",
+            "Esfregue o alho nas fatias de pão e regue com azeite.",
+            "Adicione os tomates picados e tempere com sal, pimenta e manjericão.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Frango à Parmegiana",
+        "descricao": "Peito de frango empanado, coberto com molho de tomate e queijo derretido.",
+        "imagem_url": "images/jantar_em_familia/frango-parmegiana.webp",
+        "ingredientes": [
+            "4 filés de peito de frango",
+            "1 xícara de farinha de rosca",
+            "1 xícara de molho de tomate",
+            "4 fatias de queijo muçarela",
+            "1 ovo batido",
+            "Sal e pimenta a gosto",
+            "2 colheres de sopa de azeite"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de frango com sal e pimenta.",
+            "Passe os filés no ovo batido e depois na farinha de rosca.",
+            "Aqueça o azeite em uma frigideira e frite os filés até dourarem dos dois lados.",
+            "Coloque os filés em uma assadeira, cubra com molho de tomate e queijo muçarela.",
+            "Leve ao forno pré-aquecido a 180°C por 10 minutos, até o queijo derreter."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Macarrão à Carbonara",
+        "descricao": "Macarrão rápido com molho de ovos, queijo e bacon crocante.",
+        "imagem_url": "images/jantar_em_familia/macarrao-carbonara.webp",
+        "ingredientes": [
+            "200g de macarrão espaguete",
+            "100g de bacon picado",
+            "2 ovos",
+            "1/2 xícara de queijo parmesão ralado",
+            "Sal e pimenta a gosto",
+            "1 colher de sopa de azeite"
+        ],
+        "modo_preparo": [
+            "Cozinhe o macarrão em água com sal até ficar al dente.",
+            "Enquanto o macarrão cozinha, frite o bacon no azeite até ficar crocante.",
+            "Bata os ovos com o queijo parmesão e tempere com sal e pimenta.",
+            "Escorra o macarrão e misture rapidamente com o bacon e os ovos batidos, mexendo bem para formar um molho cremoso.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Filé de Peixe com Legumes Salteados",
+        "descricao": "Filé de peixe grelhado acompanhado de legumes salteados com azeite e ervas.",
+        "imagem_url": "images/jantar_em_familia/file-peixe-legumes.webp",
+        "ingredientes": [
+            "4 filés de peixe (tilápia ou linguado)",
+            "2 colheres de sopa de azeite",
+            "1 cenoura fatiada",
+            "1 abobrinha fatiada",
+            "1/2 pimentão fatiado",
+            "Suco de 1 limão",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de peixe com suco de limão, sal e pimenta.",
+            "Aqueça 1 colher de sopa de azeite e grelhe os filés até dourar.",
+            "Em outra frigideira, aqueça a outra colher de azeite e salteie os legumes até ficarem macios.",
+            "Sirva o peixe com os legumes salteados."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Panqueca de Carne com Molho de Tomate",
+        "descricao": "Panquecas recheadas com carne moída e cobertas com molho de tomate.",
+        "imagem_url": "images/jantar_em_familia/panqueca-carne.webp",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1 xícara de leite",
+            "2 ovos",
+            "200g de carne moída",
+            "1/2 cebola picada",
+            "1 xícara de molho de tomate",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata a farinha, o leite e os ovos no liquidificador até obter uma massa homogênea.",
+            "Aqueça uma frigideira e despeje pequenas porções da massa para formar discos finos.",
+            "Refogue a carne moída com a cebola, tempere com sal e pimenta, e reserve.",
+            "Recheie as panquecas com a carne e enrole.",
+            "Cubra as panquecas com molho de tomate e leve ao forno por 10 minutos."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Escondidinho de Carne Seca",
+        "descricao": "Purê de batatas coberto com carne seca desfiada, gratinado com queijo.",
+        "imagem_url": "images/jantar_em_familia/escondidinho-carne-seca.jpg",
+        "ingredientes": [
+            "500g de carne seca desfiada",
+            "3 batatas grandes cozidas",
+            "1 colher de sopa de manteiga",
+            "1/2 xícara de leite",
+            "1 xícara de queijo muçarela ralado",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Amasse as batatas cozidas com manteiga e leite, fazendo um purê.",
+            "Tempere a carne seca desfiada com sal e pimenta, e refogue rapidamente.",
+            "Em uma travessa, coloque uma camada de purê, uma camada de carne seca e cubra com queijo ralado.",
+            "Leve ao forno pré-aquecido a 180°C até o queijo derreter e dourar."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Torta Salgada de Frango",
+        "descricao": "Torta salgada de frango desfiado com massa fácil e recheio cremoso.",
+        "imagem_url": "images/jantar_em_familia/torta-frango.jpg",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 xícara de leite",
+            "1/2 xícara de óleo",
+            "3 ovos",
+            "1 colher de sopa de fermento em pó",
+            "2 xícaras de frango desfiado",
+            "1/2 xícara de requeijão",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata no liquidificador a farinha, leite, óleo, ovos e fermento até obter uma massa lisa.",
+            "Em uma tigela, misture o frango desfiado com o requeijão e tempere com sal e pimenta.",
+            "Despeje metade da massa em uma forma, adicione o recheio de frango e cubra com o restante da massa.",
+            "Leve ao forno pré-aquecido a 180°C por 30 minutos ou até dourar."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Pizza de Pão Francês",
+        "descricao": "Pizza rápida feita com fatias de pão francês, molho de tomate, queijo e calabresa.",
+        "imagem_url": "images/jantar_em_familia/pizza-pao-frances.jpg",
+        "ingredientes": [
+            "4 pães franceses cortados ao meio",
+            "1/2 xícara de molho de tomate",
+            "1 xícara de queijo muçarela ralado",
+            "100g de calabresa fatiada",
+            "Orégano a gosto"
+        ],
+        "modo_preparo": [
+            "Espalhe o molho de tomate nas fatias de pão.",
+            "Adicione o queijo e as fatias de calabresa por cima.",
+            "Polvilhe orégano e leve ao forno pré-aquecido a 180°C até o queijo derreter."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Pizza de Frigideira",
+        "descricao": "Pizza feita na frigideira com molho de tomate, queijo e pepperoni, ideal para servir aos amigos.",
+        "imagem_url": "images/jantar_para_amigos/pizza-frigideira.webp",
+        "ingredientes": [
+            "4 discos de massa pronta para pizza (ou massa de wrap)",
+            "1/2 xícara de molho de tomate",
+            "1 xícara de queijo muçarela ralado",
+            "100g de pepperoni fatiado",
+            "Orégano a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira e coloque o disco de massa.",
+            "Espalhe o molho de tomate e adicione o queijo e o pepperoni.",
+            "Tampe e cozinhe em fogo baixo até o queijo derreter.",
+            "Polvilhe orégano e sirva imediatamente."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Hambúrguer Caseiro",
+        "descricao": "Hambúrguer caseiro suculento com queijo, alface e tomate, perfeito para uma noite entre amigos.",
+        "imagem_url": "images/jantar_para_amigos/hamburguer-caseiro.webp",
+        "ingredientes": [
+            "4 pães de hambúrguer",
+            "4 hambúrgueres de carne bovina",
+            "4 fatias de queijo cheddar",
+            "Folhas de alface",
+            "4 fatias de tomate",
+            "Maionese, ketchup e mostarda a gosto"
+        ],
+        "modo_preparo": [
+            "Grelhe os hambúrgueres em uma frigideira até o ponto desejado.",
+            "Adicione uma fatia de queijo sobre cada hambúrguer e deixe derreter.",
+            "Monte os hambúrgueres com o alface, tomate e os molhos de sua preferência.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Bruschetta de Tomate e Queijo",
+        "descricao": "Bruschetta italiana crocante com tomate fresco, queijo muçarela e manjericão.",
+        "imagem_url": "images/jantar_para_amigos/bruschetta-tomate-queijo.webp",
+        "ingredientes": [
+            "4 fatias de pão italiano",
+            "2 tomates maduros picados",
+            "1 dente de alho",
+            "1/2 xícara de queijo muçarela ralado",
+            "Folhas de manjericão",
+            "Azeite, sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Toste as fatias de pão até ficarem crocantes.",
+            "Esfregue o dente de alho nas fatias de pão e regue com azeite.",
+            "Coloque os tomates picados sobre o pão, adicione o queijo e leve ao forno até o queijo derreter.",
+            "Finalize com manjericão e sirva."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Wrap de Frango com Cream Cheese",
+        "descricao": "Wrap rápido e leve, recheado com frango grelhado, cream cheese e alface.",
+        "imagem_url": "images/jantar_para_amigos/wrap-frango-cream-cheese.webp",
+        "ingredientes": [
+            "4 tortillas de trigo",
+            "2 peitos de frango grelhados e desfiados",
+            "1/2 xícara de cream cheese",
+            "Folhas de alface",
+            "1/2 cenoura ralada",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça as tortillas em uma frigideira.",
+            "Espalhe o cream cheese sobre as tortillas e adicione o frango desfiado, alface e cenoura.",
+            "Tempere com sal e pimenta, enrole o wrap e sirva."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Massa ao Alho e Óleo com Camarão",
+        "descricao": "Massa rápida ao alho e óleo com camarões salteados, ideal para uma refeição saborosa com amigos.",
+        "imagem_url": "images/jantar_para_amigos/massa-alho-oleo-camarao.webp",
+        "ingredientes": [
+            "200g de espaguete",
+            "200g de camarões limpos",
+            "4 dentes de alho picados",
+            "4 colheres de sopa de azeite",
+            "Salsinha picada a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Cozinhe o espaguete em água com sal até ficar al dente.",
+            "Enquanto isso, aqueça o azeite em uma frigideira e doure o alho.",
+            "Adicione os camarões e cozinhe por 3-4 minutos até ficarem rosados.",
+            "Misture a massa ao camarão e finalize com salsinha picada."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Quesadilla de Queijo e Guacamole",
+        "descricao": "Quesadilla mexicana recheada com queijo e servida com guacamole caseiro.",
+        "imagem_url": "images/jantar_para_amigos/quesadilla-queijo-guacamole.webp",
+        "ingredientes": [
+            "4 tortillas de trigo",
+            "2 xícaras de queijo muçarela ralado",
+            "1 abacate maduro",
+            "1 tomate picado",
+            "1/2 cebola picada",
+            "Suco de 1 limão",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Amasse o abacate e misture com tomate, cebola, suco de limão, sal e pimenta, formando o guacamole.",
+            "Recheie as tortillas com o queijo, dobre ao meio e aqueça em uma frigideira até o queijo derreter.",
+            "Sirva as quesadillas com o guacamole ao lado."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Salmão ao Molho de Maracujá",
+        "descricao": "Filé de salmão grelhado com um delicioso molho de maracujá, perfeito para um jantar romântico.",
+        "imagem_url": "images/jantar_romantico/salmao-molho-maracuja.png",
+        "ingredientes": [
+            "2 filés de salmão",
+            "Suco de 1 maracujá",
+            "1 colher de sopa de mel",
+            "1 colher de sopa de azeite",
+            "Sal e pimenta a gosto",
+            "Salsinha picada a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de salmão com sal e pimenta.",
+            "Aqueça o azeite em uma frigideira e grelhe os filés por 4-5 minutos de cada lado.",
+            "Para o molho, misture o suco de maracujá e o mel e aqueça até reduzir um pouco.",
+            "Sirva o salmão com o molho de maracujá e finalize com salsinha picada."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Risoto de Queijo Brie com Amêndoas",
+        "descricao": "Risoto cremoso com queijo brie e amêndoas tostadas, ideal para uma noite especial.",
+        "imagem_url": "images/jantar_romantico/risoto-brie-amendoas.png",
+        "ingredientes": [
+            "1 xícara de arroz para risoto (arbóreo)",
+            "1/2 cebola picada",
+            "1/2 xícara de vinho branco",
+            "1 litro de caldo de legumes",
+            "100g de queijo brie",
+            "1/4 xícara de amêndoas laminadas",
+            "2 colheres de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Refogue a cebola na manteiga, depois adicione o arroz e mexa bem.",
+            "Adicione o vinho branco e mexa até evaporar.",
+            "Vá adicionando o caldo de legumes aos poucos, mexendo sempre, até o arroz ficar al dente.",
+            "Adicione o queijo brie e mexa até derreter. Toste as amêndoas em uma frigideira e adicione por cima do risoto."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Camarão ao Alho com Limão",
+        "descricao": "Camarões grelhados com alho e um toque de limão, simples e delicioso.",
+        "imagem_url": "images/jantar_romantico/camarao-alho-limao.png",
+        "ingredientes": [
+            "400g de camarões limpos",
+            "4 dentes de alho picados",
+            "2 colheres de sopa de azeite",
+            "Suco de 1 limão",
+            "Salsinha picada a gosto",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os camarões com sal, pimenta e suco de limão.",
+            "Aqueça o azeite em uma frigideira e adicione o alho picado.",
+            "Cozinhe os camarões por 3-4 minutos até ficarem rosados.",
+            "Finalize com salsinha picada e sirva."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Filé Mignon com Redução de Vinho Tinto",
+        "descricao": "Filé mignon grelhado servido com uma redução de vinho tinto.",
+        "imagem_url": "images/jantar_romantico/file-mignon-vinho-tinto.png",
+        "ingredientes": [
+            "2 filés de filé mignon",
+            "1 xícara de vinho tinto",
+            "1 colher de sopa de manteiga",
+            "1 colher de chá de amido de milho",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os filés com sal e pimenta e grelhe na manteiga até o ponto desejado.",
+            "Na mesma frigideira, adicione o vinho tinto e o amido de milho dissolvido em um pouco de água.",
+            "Cozinhe até o molho reduzir e engrossar levemente.",
+            "Sirva os filés com a redução de vinho por cima."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Fettuccine ao Molho Alfredo",
+        "descricao": "Massa fettuccine com um cremoso molho Alfredo à base de queijo e creme de leite.",
+        "imagem_url": "images/jantar_romantico/fettuccine-alfredo.png",
+        "ingredientes": [
+            "200g de fettuccine",
+            "1 xícara de creme de leite",
+            "1/2 xícara de queijo parmesão ralado",
+            "2 colheres de sopa de manteiga",
+            "Sal e pimenta a gosto",
+            "Noz-moscada a gosto"
+        ],
+        "modo_preparo": [
+            "Cozinhe o fettuccine em água com sal até ficar al dente.",
+            "Em uma panela, aqueça a manteiga e adicione o creme de leite, mexendo bem.",
+            "Adicione o queijo parmesão e misture até obter um molho cremoso.",
+            "Misture a massa ao molho e tempere com sal, pimenta e noz-moscada."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Caprese no Palito",
+        "descricao": "Mini espetinhos de tomate, queijo muçarela e manjericão, simples e elegantes.",
+        "imagem_url": "images/jantar_romantico/caprese-palito.png",
+        "ingredientes": [
+            "12 tomates cereja",
+            "12 bolinhas de queijo muçarela de búfala",
+            "Folhas de manjericão fresco",
+            "Azeite, sal e pimenta a gosto",
+            "Palitos de dente para montar"
+        ],
+        "modo_preparo": [
+            "Espete um tomate, uma bolinha de muçarela e uma folha de manjericão em cada palito.",
+            "Regue com azeite, tempere com sal e pimenta e sirva como entrada."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Mousse de Chocolate Simples",
+        "descricao": "Mousse de chocolate rápido e cremoso, ideal para finalizar um jantar romântico.",
+        "imagem_url": "images/jantar_romantico/mousse-chocolate.png",
+        "ingredientes": [
+            "200g de chocolate meio amargo",
+            "3 claras de ovo",
+            "3 colheres de sopa de açúcar",
+            "1 xícara de creme de leite"
+        ],
+        "modo_preparo": [
+            "Derreta o chocolate em banho-maria e misture com o creme de leite.",
+            "Bata as claras em neve com o açúcar até ficarem firmes.",
+            "Incorpore delicadamente as claras ao chocolate derretido.",
+            "Leve à geladeira por pelo menos 1 hora antes de servir."
+        ]
+    }
+]

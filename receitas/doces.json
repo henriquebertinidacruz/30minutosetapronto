@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "titulo": "Brigadeiro",
+        "descricao": "Clássico doce brasileiro feito com leite condensado, chocolate e manteiga.",
+        "imagem_url": "images/doces/brigadeiro.webp",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "2 colheres de sopa de chocolate em pó",
+            "1 colher de sopa de manteiga",
+            "Granulado para decorar"
+        ],
+        "modo_preparo": [
+            "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
+            "Cozinhe em fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+            "Deixe esfriar, faça bolinhas e passe no granulado."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Mousse de Limão",
+        "descricao": "Mousse refrescante e rápida, feita com suco de limão e creme de leite.",
+        "imagem_url": "images/doces/mousse_limao.jpg",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "1 caixa de creme de leite",
+            "1/2 xícara de suco de limão"
+        ],
+        "modo_preparo": [
+            "Misture o leite condensado, o creme de leite e o suco de limão em um liquidificador.",
+            "Bata até ficar homogêneo e coloque em taças individuais.",
+            "Leve à geladeira por 30 minutos antes de servir."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Beijinho",
+        "descricao": "Doce de coco brasileiro feito com leite condensado e coco ralado.",
+        "imagem_url": "images/doces/beijinho.webp",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "1 colher de sopa de manteiga",
+            "100g de coco ralado",
+            "Açúcar cristal ou coco ralado para decorar"
+        ],
+        "modo_preparo": [
+            "Misture o leite condensado, a manteiga e o coco ralado em uma panela.",
+            "Cozinhe em fogo baixo até desgrudar do fundo da panela.",
+            "Deixe esfriar, faça bolinhas e passe no açúcar cristal ou coco ralado."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Bolo de Caneca",
+        "descricao": "Bolo de chocolate simples feito no micro-ondas em poucos minutos.",
+        "imagem_url": "images/doces/bolo_caneca.webp",
+        "ingredientes": [
+            "3 colheres de sopa de farinha de trigo",
+            "3 colheres de sopa de açúcar",
+            "2 colheres de sopa de chocolate em pó",
+            "1 colher de sopa de óleo",
+            "1 ovo",
+            "3 colheres de sopa de leite",
+            "1/2 colher de chá de fermento em pó"
+        ],
+        "modo_preparo": [
+            "Em uma caneca, misture todos os ingredientes até formar uma massa homogênea.",
+            "Leve ao micro-ondas por 1 a 2 minutos, dependendo da potência.",
+            "Sirva ainda quente."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Pudim de Leite Rápido",
+        "descricao": "Versão rápida do clássico pudim de leite, feito no micro-ondas.",
+        "imagem_url": "images/doces/pudim_rapido.webp",
+        "ingredientes": [
+            "1 lata de leite condensado",
+            "1 lata de leite (use a lata do leite condensado como medida)",
+            "3 ovos",
+            "Calda de caramelo pronta"
+        ],
+        "modo_preparo": [
+            "Misture o leite condensado, o leite e os ovos no liquidificador.",
+            "Coloque a calda de caramelo em uma forma para micro-ondas e despeje a mistura por cima.",
+            "Cozinhe no micro-ondas por cerca de 10 minutos ou até firmar.",
+            "Deixe esfriar antes de servir."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Biscoito Amanteigado",
+        "descricao": "Biscoitos crocantes e rápidos feitos com manteiga e farinha.",
+        "imagem_url": "images/doces/biscoito_amanteigado.webp",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 xícara de manteiga",
+            "1/2 xícara de açúcar"
+        ],
+        "modo_preparo": [
+            "Misture todos os ingredientes até formar uma massa homogênea.",
+            "Faça bolinhas, achate levemente e coloque em uma assadeira.",
+            "Asse em forno pré-aquecido a 180°C por 15 minutos ou até dourar levemente."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Creme de Papaia com Cassis",
+        "descricao": "Sobremesa refrescante feita com mamão papaia e licor de cassis.",
+        "imagem_url": "images/doces/creme_papaia.webp",
+        "ingredientes": [
+            "1 mamão papaia maduro",
+            "1 bola de sorvete de creme",
+            "Licor de cassis a gosto"
+        ],
+        "modo_preparo": [
+            "Bata o mamão papaia e o sorvete de creme no liquidificador.",
+            "Sirva em taças e regue com licor de cassis por cima."
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Canjica Doce Rápida",
+        "descricao": "Canjica doce feita de forma rápida com leite condensado e coco.",
+        "imagem_url": "images/doces/canjica_doce.webp",
+        "ingredientes": [
+            "250g de milho para canjica",
+            "1 lata de leite condensado",
+            "100g de coco ralado",
+            "1 litro de leite"
+        ],
+        "modo_preparo": [
+            "Cozinhe o milho para canjica até ficar macio.",
+            "Adicione o leite, o leite condensado e o coco ralado.",
+            "Deixe cozinhar por mais 10 minutos e sirva quente ou frio."
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Doce de Abóbora com Coco",
+        "descricao": "Doce tradicional de abóbora com coco ralado, feito rapidamente.",
+        "imagem_url": "images/doces/doce_abobora.webp",
+        "ingredientes": [
+            "500g de abóbora picada",
+            "200g de açúcar",
+            "100g de coco ralado",
+            "Cravo-da-índia a gosto"
+        ],
+        "modo_preparo": [
+            "Cozinhe a abóbora com o açúcar e o cravo até desmanchar.",
+            "Adicione o coco ralado e mexa bem.",
+            "Deixe cozinhar por mais alguns minutos até engrossar."
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Torta de Limão de Travessa",
+        "descricao": "Torta de limão fácil e rápida, montada em uma travessa.",
+        "imagem_url": "images/doces/torta_limao.webp",
+        "ingredientes": [
+            "1 pacote de biscoito maisena",
+            "100g de manteiga derretida",
+            "1 lata de leite condensado",
+            "1/2 xícara de suco de limão",
+            "1 caixa de creme de leite"
+        ],
+        "modo_preparo": [
+            "Triture os biscoitos e misture com a manteiga derretida para formar a base.",
+            "Espalhe em uma travessa.",
+            "Misture o leite condensado, o suco de limão e o creme de leite, e despeje sobre a base.",
+            "Leve à geladeira por 30 minutos antes de servir."
+        ]
+    }
+]

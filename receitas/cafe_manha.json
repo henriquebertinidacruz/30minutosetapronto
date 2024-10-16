@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "titulo": "Smoothie de Banana e Aveia",
+        "descricao": "Smoothie nutritivo com banana, aveia e mel, ideal para um café da manhã rápido e saudável.",
+        "imagem_url": "images/cafe_da_manha/smoothie-banana-aveia.webp",
+        "ingredientes": [
+            "1 banana",
+            "2 colheres de sopa de aveia",
+            "1 xícara de leite ou bebida vegetal",
+            "1 colher de sopa de mel",
+            "Gelo a gosto"
+        ],
+        "modo_preparo": [
+            "Bata todos os ingredientes no liquidificador até obter uma consistência cremosa.",
+            "Sirva imediatamente com gelo, se desejar."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Pão com Manteiga na Chapa",
+        "descricao": "Clássico pão com manteiga na chapa, simples e rápido para o café da manhã.",
+        "imagem_url": "images/cafe_da_manha/pao-manteiga-chapa.jpg",
+        "ingredientes": [
+            "2 fatias de pão francês",
+            "2 colheres de sopa de manteiga"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira e adicione a manteiga.",
+            "Coloque as fatias de pão na frigideira e toste até ficarem douradas e crocantes.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Iogurte com Granola e Frutas",
+        "descricao": "Tigela de iogurte natural com granola e frutas frescas, ideal para um café da manhã leve.",
+        "imagem_url": "images/cafe_da_manha/iogurte-granola-frutas.webp",
+        "ingredientes": [
+            "1 pote de iogurte natural",
+            "1/4 xícara de granola",
+            "1 banana fatiada",
+            "1/4 xícara de morangos picados",
+            "Mel a gosto"
+        ],
+        "modo_preparo": [
+            "Coloque o iogurte em uma tigela.",
+            "Adicione a granola e as frutas picadas por cima.",
+            "Regue com mel, se desejar."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Omelete Simples",
+        "descricao": "Omelete simples e rápida, feita com ovos e temperos a gosto.",
+        "imagem_url": "images/cafe_da_manha/omelete-simples.jpg",
+        "ingredientes": [
+            "2 ovos",
+            "1 colher de sopa de manteiga",
+            "Sal e pimenta a gosto",
+            "Cebolinha picada (opcional)"
+        ],
+        "modo_preparo": [
+            "Bata os ovos com sal e pimenta.",
+            "Aqueça a manteiga em uma frigideira e despeje os ovos batidos.",
+            "Cozinhe em fogo médio, mexendo levemente até que a omelete esteja firme.",
+            "Dobre ao meio e sirva com cebolinha por cima, se desejar."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Torrada com Geleia e Requeijão",
+        "descricao": "Torradas crocantes servidas com geleia de frutas e requeijão cremoso.",
+        "imagem_url": "images/cafe_da_manha/torrada-geleia-requeijao.webp",
+        "ingredientes": [
+            "2 fatias de pão integral",
+            "2 colheres de sopa de geleia de morango",
+            "2 colheres de sopa de requeijão"
+        ],
+        "modo_preparo": [
+            "Toste as fatias de pão até ficarem crocantes.",
+            "Espalhe o requeijão e a geleia por cima das torradas.",
+            "Sirva imediatamente."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Tapioca Simples com Queijo",
+        "descricao": "Tapioca rápida recheada com queijo muçarela, pronta em poucos minutos.",
+        "imagem_url": "images/cafe_da_manha/tapioca-simples-queijo.jpg",
+        "ingredientes": [
+            "1/2 xícara de goma de tapioca",
+            "2 fatias de queijo muçarela",
+            "Sal a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira antiaderente e espalhe a goma de tapioca até cobrir o fundo.",
+            "Quando a tapioca começar a soltar das bordas, adicione o queijo.",
+            "Dobre a tapioca ao meio e cozinhe até o queijo derreter."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Mingau de Aveia Simples",
+        "descricao": "Mingau de aveia simples e rápido, ideal para um café da manhã nutritivo.",
+        "imagem_url": "images/cafe_da_manha/mingau-aveia.webp",
+        "ingredientes": [
+            "1/2 xícara de aveia em flocos",
+            "1 xícara de leite ou água",
+            "1 colher de sopa de mel",
+            "Canela a gosto"
+        ],
+        "modo_preparo": [
+            "Em uma panela, misture a aveia e o leite (ou água).",
+            "Cozinhe em fogo médio, mexendo sempre, até engrossar.",
+            "Adicione o mel e a canela, misture bem e sirva."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Ovos Mexidos com Queijo",
+        "descricao": "Ovos mexidos cremosos com queijo derretido, perfeitos para um brunch rápido.",
+        "imagem_url": "images/brunch_domingo/ovos-mexidos-queijo.webp",
+        "ingredientes": [
+            "4 ovos",
+            "1/2 xícara de queijo muçarela ralado",
+            "2 colheres de sopa de leite",
+            "1 colher de sopa de manteiga",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata os ovos com o leite, sal e pimenta.",
+            "Aqueça a manteiga em uma frigideira e despeje os ovos batidos.",
+            "Mexa os ovos constantemente e, quando começarem a firmar, adicione o queijo.",
+            "Cozinhe até o queijo derreter e os ovos ficarem cremosos."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Panquecas Americanas Simples",
+        "descricao": "Panquecas fofas e rápidas, perfeitas para um brunch de domingo.",
+        "imagem_url": "images/brunch_domingo/panquecas-americanas.webp",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1 colher de sopa de açúcar",
+            "1 colher de chá de fermento em pó",
+            "1 xícara de leite",
+            "1 ovo",
+            "1 colher de sopa de manteiga derretida",
+            "Maple syrup ou mel para servir"
+        ],
+        "modo_preparo": [
+            "Misture a farinha, o açúcar e o fermento em uma tigela.",
+            "Em outra tigela, bata o ovo, o leite e a manteiga derretida.",
+            "Adicione os ingredientes secos aos líquidos e misture até obter uma massa homogênea.",
+            "Aqueça uma frigideira untada e despeje pequenas porções de massa, virando quando surgirem bolhas.",
+            "Sirva com maple syrup ou mel."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Torrada com Abacate e Ovo Pochê",
+        "descricao": "Torrada crocante com abacate amassado e ovo pochê.",
+        "imagem_url": "images/brunch_domingo/torrada-abacate-ovo-poche.webp",
+        "ingredientes": [
+            "2 fatias de pão integral",
+            "1 abacate maduro",
+            "1 ovo",
+            "1 colher de sopa de vinagre",
+            "Sal e pimenta a gosto",
+            "Pimenta calabresa (opcional)"
+        ],
+        "modo_preparo": [
+            "Amasse o abacate e tempere com sal e pimenta.",
+            "Passe o abacate amassado nas torradas.",
+            "Para o ovo pochê, ferva água com vinagre e, em seguida, quebre o ovo e cozinhe por 3 minutos.",
+            "Coloque o ovo pochê sobre as torradas e finalize com pimenta calabresa, se desejar."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Smoothie de Frutas Vermelhas",
+        "descricao": "Delicioso smoothie de frutas vermelhas, refrescante e nutritivo.",
+        "imagem_url": "images/brunch_domingo/smoothie-frutas-vermelhas.webp",
+        "ingredientes": [
+            "1 xícara de frutas vermelhas congeladas (morango, framboesa, mirtilo)",
+            "1 banana",
+            "1/2 xícara de iogurte natural",
+            "1/2 xícara de leite",
+            "1 colher de sopa de mel"
+        ],
+        "modo_preparo": [
+            "Coloque todos os ingredientes no liquidificador.",
+            "Bata até ficar homogêneo e cremoso.",
+            "Sirva imediatamente em um copo grande."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Tapioca com Queijo e Presunto",
+        "descricao": "Tapioca recheada com queijo e presunto, simples e rápida.",
+        "imagem_url": "images/brunch_domingo/tapioca-queijo-presunto.jpg",
+        "ingredientes": [
+            "1/2 xícara de goma de tapioca",
+            "2 fatias de queijo muçarela",
+            "2 fatias de presunto",
+            "Sal a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça uma frigideira antiaderente e espalhe a goma de tapioca até cobrir o fundo.",
+            "Quando a tapioca começar a soltar das bordas, adicione o queijo e o presunto.",
+            "Dobre a tapioca ao meio e cozinhe até o queijo derreter."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Muffins de Banana e Aveia",
+        "descricao": "Muffins saudáveis de banana e aveia, perfeitos para um brunch nutritivo.",
+        "imagem_url": "images/brunch_domingo/muffins-banana-aveia.webp",
+        "ingredientes": [
+            "2 bananas maduras amassadas",
+            "1/2 xícara de aveia em flocos",
+            "1/4 xícara de farinha de trigo",
+            "1 ovo",
+            "1/4 xícara de açúcar mascavo",
+            "1 colher de chá de fermento em pó",
+            "Canela a gosto"
+        ],
+        "modo_preparo": [
+            "Misture todos os ingredientes em uma tigela até formar uma massa homogênea.",
+            "Distribua a massa em forminhas de muffin.",
+            "Asse em forno pré-aquecido a 180°C por 20 minutos ou até dourar."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Salada de Frutas com Iogurte",
+        "descricao": "Salada de frutas frescas com iogurte natural e mel.",
+        "imagem_url": "images/brunch_domingo/salada-frutas-iogurte.webp",
+        "ingredientes": [
+            "1 maçã picada",
+            "1 banana fatiada",
+            "1/2 xícara de uvas sem sementes",
+            "1/2 xícara de morangos picados",
+            "1/2 xícara de iogurte natural",
+            "Mel a gosto"
+        ],
+        "modo_preparo": [
+            "Misture todas as frutas em uma tigela.",
+            "Adicione o iogurte por cima e regue com mel.",
+            "Sirva imediatamente."
+        ]
+    }
+]

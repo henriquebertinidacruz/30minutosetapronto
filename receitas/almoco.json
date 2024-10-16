@@ -1,0 +1,295 @@
+[
+    {
+        "id": 1,
+        "titulo": "Frango Grelhado com Ervas",
+        "descricao": "Frango grelhado temperado com ervas frescas, acompanhado de uma salada simples.",
+        "imagem_url": "images/almoco/frango-grelhado-com-ervas.png",
+        "ingredientes": [
+            "2 peitos de frango",
+            "2 colheres de sopa de azeite",
+            "1 colher de chá de orégano",
+            "1 colher de chá de tomilho",
+            "Sal e pimenta a gosto",
+            "Salada mista (alface, tomate, cenoura)"
+        ],
+        "modo_preparo": [
+            "Aqueça o azeite em uma frigideira.",
+            "Tempere os peitos de frango com sal, pimenta, orégano e tomilho.",
+            "Grelhe o frango por 5-7 minutos de cada lado ou até dourar.",
+            "Sirva com uma salada mista ao lado."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Omelete de Legumes",
+        "descricao": "Omelete simples recheada com vegetais frescos, ideal para um almoço leve.",
+        "imagem_url": "images/almoco/omelete-de-legumes.png",
+        "ingredientes": [
+            "3 ovos",
+            "1/2 cebola picada",
+            "1/2 tomate picado",
+            "1/2 pimentão verde picado",
+            "Sal e pimenta a gosto",
+            "2 colheres de sopa de queijo ralado"
+        ],
+        "modo_preparo": [
+            "Bata os ovos em uma tigela com sal e pimenta.",
+            "Aqueça uma frigideira e refogue a cebola, tomate e pimentão por 3 minutos.",
+            "Despeje os ovos batidos e cozinhe em fogo baixo até dourar.",
+            "Vire a omelete e adicione o queijo ralado, dobrando ao meio."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Wrap de Frango com Abacate",
+        "descricao": "Wrap saudável de frango grelhado com abacate, perfeito para um almoço rápido.",
+        "imagem_url": "images/almoco/wrap-de-frango-com-abacate.png",
+        "ingredientes": [
+            "2 tortillas de trigo",
+            "1 peito de frango grelhado",
+            "1 abacate fatiado",
+            "1/2 xícara de alface picada",
+            "2 colheres de sopa de maionese light",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Aqueça as tortillas em uma frigideira por 1 minuto.",
+            "Espalhe a maionese sobre as tortillas e adicione o frango grelhado, abacate e alface.",
+            "Tempere com sal e pimenta, enrole e sirva."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Macarrão ao Alho e Óleo",
+        "descricao": "Clássico macarrão ao alho e óleo, simples e rápido de preparar.",
+        "imagem_url": "images/almoco/macarrao-ao-alho-e-oleo.png",
+        "ingredientes": [
+            "200g de macarrão espaguete",
+            "4 dentes de alho picados",
+            "4 colheres de sopa de azeite",
+            "Salsinha picada a gosto",
+            "Sal a gosto",
+            "Queijo parmesão ralado (opcional)"
+        ],
+        "modo_preparo": [
+            "Cozinhe o macarrão em água com sal até ficar al dente.",
+            "Em uma frigideira, aqueça o azeite e doure o alho.",
+            "Escorra o macarrão e misture com o alho e azeite.",
+            "Finalize com salsinha picada e queijo parmesão, se desejar."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Salada de Atum com Grão-de-Bico",
+        "descricao": "Salada nutritiva de atum com grão-de-bico, perfeita para um almoço rápido e leve.",
+        "imagem_url": "images/almoco/salada-de-atum-com-grao-de-Bico.png",
+        "ingredientes": [
+            "1 lata de atum",
+            "1 xícara de grão-de-bico cozido",
+            "1/2 cebola roxa picada",
+            "1/2 tomate picado",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Em uma tigela, misture o atum, grão-de-bico, cebola e tomate.",
+            "Tempere com azeite, sal e pimenta.",
+            "Sirva imediatamente ou deixe na geladeira até a hora de servir."
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Panqueca de Espinafre com Ricota",
+        "descricao": "Panqueca recheada com espinafre e ricota, ideal para um almoço leve e nutritivo.",
+        "imagem_url": "images/almoco/panqueca-de-espinafre-com-ricota.png",
+        "ingredientes": [
+            "1 xícara de farinha de trigo",
+            "1 xícara de leite",
+            "1 ovo",
+            "1/2 xícara de espinafre cozido e picado",
+            "1/2 xícara de ricota",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Bata no liquidificador a farinha, o leite, o ovo e uma pitada de sal.",
+            "Aqueça uma frigideira antiaderente e despeje uma concha da massa, fazendo discos finos.",
+            "Recheie as panquecas com o espinafre e a ricota, enrole e sirva."
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Sopa de Tomate com Manjericão",
+        "descricao": "Sopa de tomate cremosa e aromática com manjericão fresco.",
+        "imagem_url": "images/almoco/sopa-de-tomate-com-manjericao.png",
+        "ingredientes": [
+            "4 tomates maduros",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "2 colheres de sopa de azeite",
+            "1 xícara de água",
+            "Folhas de manjericão fresco",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Refogue a cebola e o alho no azeite até dourar.",
+            "Adicione os tomates picados e a água, e cozinhe até os tomates desmancharem.",
+            "Bata tudo no liquidificador, volte para a panela e tempere com sal, pimenta e manjericão."
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Taco de Carne com Guacamole",
+        "descricao": "Taco mexicano recheado com carne moída temperada e guacamole fresco.",
+        "imagem_url": "images/almoco/taco-de-carne-com-guacamole.png",
+        "ingredientes": [
+            "4 tortillas de milho",
+            "200g de carne moída",
+            "1 abacate maduro",
+            "1/2 cebola picada",
+            "Suco de 1 limão",
+            "Folhas de coentro",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Doure a carne moída em uma frigideira, tempere com sal e pimenta.",
+            "Para o guacamole, amasse o abacate com o suco de limão e misture com a cebola e coentro.",
+            "Recheie as tortillas com a carne e guacamole, e sirva."
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Peito de Peru com Mel e Mostarda",
+        "descricao": "Peito de peru grelhado com molho de mel e mostarda, acompanhado de salada.",
+        "imagem_url": "images/almoco/peito-de-peru-com-mel-e-mostarda.png",
+        "ingredientes": [
+            "2 filés de peito de peru",
+            "1 colher de sopa de mel",
+            "1 colher de sopa de mostarda",
+            "1 colher de sopa de azeite",
+            "Salada de folhas verdes",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de peru com sal e pimenta e grelhe no azeite até dourar.",
+            "Misture o mel e a mostarda e despeje sobre o peru grelhado.",
+            "Sirva com uma salada de folhas verdes."
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Hambúrguer Caseiro com Queijo",
+        "descricao": "Hambúrguer caseiro grelhado com queijo derretido, acompanhado de alface e tomate.",
+        "imagem_url": "images/almoco/hamburguer-caseiro-com-queijo.png",
+        "ingredientes": [
+            "2 hambúrgueres de carne bovina",
+            "2 fatias de queijo cheddar",
+            "2 pães de hambúrguer",
+            "Folhas de alface",
+            "2 fatias de tomate",
+            "Maionese, ketchup e mostarda"
+        ],
+        "modo_preparo": [
+            "Grelhe os hambúrgueres em uma frigideira até o ponto desejado.",
+            "Adicione as fatias de queijo sobre os hambúrgueres e deixe derreter.",
+            "Monte os hambúrgueres com alface, tomate e os molhos de sua preferência."
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Filé de Frango Grelhado com Purê de Batatas",
+        "descricao": "Filé de frango grelhado acompanhado de purê de batatas cremoso.",
+        "imagem_url": "images/almoco_executivo/frango-grelhado-pure-batatas.webp",
+        "ingredientes": [
+            "2 filés de frango",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta a gosto",
+            "3 batatas médias cozidas",
+            "1 colher de sopa de manteiga",
+            "1/2 xícara de leite"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de frango com sal e pimenta.",
+            "Aqueça o azeite em uma frigideira e grelhe os filés até dourarem.",
+            "Para o purê, amasse as batatas cozidas e misture com manteiga e leite até ficar cremoso.",
+            "Sirva o frango com o purê ao lado."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Salada Caesar com Frango",
+        "descricao": "Clássica salada Caesar com frango grelhado, ideal para um almoço leve e rápido.",
+        "imagem_url": "images/almoco_executivo/salada-caesar-frango.webp",
+        "ingredientes": [
+            "1 peito de frango grelhado",
+            "4 folhas de alface romana",
+            "1/4 de xícara de queijo parmesão ralado",
+            "1/4 de xícara de croutons",
+            "2 colheres de sopa de molho Caesar"
+        ],
+        "modo_preparo": [
+            "Grelhe o peito de frango e corte em tiras.",
+            "Misture a alface, o parmesão, os croutons e o molho Caesar.",
+            "Adicione o frango grelhado por cima e sirva."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Strogonoff de Carne Simples",
+        "descricao": "Strogonoff de carne rápido, servido com arroz branco e batata palha.",
+        "imagem_url": "images/almoco_executivo/strogonoff-carne.webp",
+        "ingredientes": [
+            "200g de carne em tiras (filé mignon ou alcatra)",
+            "1/2 cebola picada",
+            "1 colher de sopa de azeite",
+            "1 colher de sopa de ketchup",
+            "1 colher de sopa de mostarda",
+            "1/2 xícara de creme de leite",
+            "Sal e pimenta a gosto"
+        ],
+        "modo_preparo": [
+            "Refogue a cebola no azeite até dourar, depois adicione a carne e refogue até cozinhar.",
+            "Adicione o ketchup e a mostarda, mexendo bem.",
+            "Acrescente o creme de leite e mexa até incorporar.",
+            "Sirva com arroz branco e batata palha."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Macarrão à Bolonhesa Rápido",
+        "descricao": "Macarrão espaguete à bolonhesa com molho de carne moída, ideal para um almoço prático.",
+        "imagem_url": "images/almoco_executivo/macarrao-bolonhesa.webp",
+        "ingredientes": [
+            "200g de espaguete",
+            "150g de carne moída",
+            "1/2 cebola picada",
+            "1 dente de alho picado",
+            "1 xícara de molho de tomate",
+            "Sal e pimenta a gosto",
+            "Queijo parmesão ralado"
+        ],
+        "modo_preparo": [
+            "Cozinhe o macarrão em água com sal até ficar al dente.",
+            "Em uma frigideira, refogue a cebola e o alho, depois adicione a carne moída.",
+            "Adicione o molho de tomate, tempere com sal e pimenta e deixe cozinhar por 10 minutos.",
+            "Misture o molho com o macarrão e sirva com queijo parmesão por cima."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Peixe Grelhado com Limão",
+        "descricao": "Filé de peixe grelhado temperado com limão, acompanhado de arroz branco.",
+        "imagem_url": "images/almoco_executivo/peixe-grelhado-limao.webp",
+        "ingredientes": [
+            "2 filés de peixe (tilápia ou linguado)",
+            "1 limão",
+            "2 colheres de sopa de azeite",
+            "Sal e pimenta a gosto",
+            "Arroz branco para acompanhar"
+        ],
+        "modo_preparo": [
+            "Tempere os filés de peixe com sal, pimenta e o suco de limão.",
+            "Aqueça o azeite em uma frigideira e grelhe os filés por 4-5 minutos de cada lado.",
+            "Sirva com arroz branco."
+        ]
+    }
+]
